@@ -14,21 +14,3 @@
 *.pdf -crlf -diff -merge
 *.jpg -crlf -diff -merge
 *.png -crlf -diff -merge
-*.mlx -text
-*.mat -text
-*.fig -text
-*.p -text
-*.slx -text
-*.mdl -text
-*.mdlp -text
-*.slxp -text
-*.sldd -text
-*.mexa64 -text
-*.mexw64 -text
-*.mexmaci64 -text
-*.xlsx -text
-*.docx -text
-*.pdf -text
-*.jpg -text
-*.png -text
-*.exe -text
